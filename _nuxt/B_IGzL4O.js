@@ -1,1 +1,0 @@
-import{_ as e,x as t,y as c}from"./Cu85pusn.js";const n={},o={class:"p-6 text-center text-2xl font-bold"};function r(s,a){return c(),t("div",o," 🚀 Nuxt Korean Practice 已成功部署！ ")}const x=e(n,[["render",r]]);export{x as default};
