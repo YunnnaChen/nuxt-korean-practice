@@ -1,0 +1,1 @@
+import{_ as n,x as r,z as e,J as s,y as o}from"./D16F0ezx.js";const a={};function c(l,t){return o(),r(s,null,[t[0]||(t[0]=e("div",{class:"p-6 text-center text-2xl font-bold text-red-600"}," 🚀 Nuxt Korean Practice 已成功部署！ ",-1)),t[1]||(t[1]=e("button",{class:"btn"},"Click Me",-1))],64)}const d=n(a,[["render",c]]);export{d as default};
