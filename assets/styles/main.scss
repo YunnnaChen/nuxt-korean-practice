@@ -1,0 +1,36 @@
+// Tailwind 或 reset 可放這裡
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// $primary: #6366f1;
+
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+  background-color: #f9fafb;
+}
+
+.btn {
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+
+  &:hover {
+  }
+}
+
+.bg-card.mochas {
+  background: url('@/assets/images/bg/bg_mocha_1296x1296.png') no-repeat center/cover;
+}
+.bg-card.hojicha {
+  background: url('@/assets/images/bg/bg_hojicha_1296x1296.png') no-repeat center/cover;
+}
+.bg-card.yutou {
+  background: url('@/assets/images/bg/bg_yutou_1296x1296.png') no-repeat center/cover;
+}
+.bg-card.lanmei {
+  background: url('@/assets/images/bg/bg_lanmei_1296x1296.png') no-repeat center/cover;
+}
+.bg-card.caomei {
+  background: url('@/assets/images/bg/bg_caomei_1296x1296.png') no-repeat center/cover;
+}
