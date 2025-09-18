@@ -6,6 +6,7 @@ export default defineNuxtConfig({
     baseURL: '/nuxt-korean-practice/',
     buildAssetsDir: 'assets/',
   },
+  
   devtools: { enabled: false },
   modules: ['@nuxtjs/tailwindcss'],
   css: ['@/assets/styles/main.scss'],
